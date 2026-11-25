@@ -14,7 +14,7 @@ Student team project – Software Development course, University of Ioannina, 20
 1. Clone the repository: `git clone https://github.com/dafermoudanae/gantt-chart-manager.git`
 2. Open the project in Eclipse or IntelliJ IDEA and add the `src` folder as a source folder.
 3. Add all jar files from the Apache POI and log4j folders to the build path.
-4. Run the class `[main class]`.
+4. Run the class app.appClient.
 
 ## Project Structure
 - `src/main/java/app`: entry points and naive clients
